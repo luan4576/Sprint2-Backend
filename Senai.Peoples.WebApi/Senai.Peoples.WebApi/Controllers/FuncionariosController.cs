@@ -44,7 +44,7 @@ namespace Senai.Peoples.WebApi.Controllers
                     (
                     new
                     {
-                        mensagem = "nenhum genero encontrado",
+                        mensagem = "nenhum funcionario encontrado",
                         erro = true
                     }
                     );
@@ -80,6 +80,8 @@ namespace Senai.Peoples.WebApi.Controllers
 
             return Ok("Funcionario Deletado");
         }
+
+       
 
     }
 }

@@ -1,0 +1,14 @@
+C:\Users\50539955833\Documents\sprint2-API\Senai.Gufi.WebApi.Manha\Senai.Gufi.WebApi.Manha\bin\Debug\netcoreapp2.1\Senai.Gufi.WebApi.Manha.deps.json
+C:\Users\50539955833\Documents\sprint2-API\Senai.Gufi.WebApi.Manha\Senai.Gufi.WebApi.Manha\bin\Debug\netcoreapp2.1\Senai.Gufi.WebApi.Manha.runtimeconfig.json
+C:\Users\50539955833\Documents\sprint2-API\Senai.Gufi.WebApi.Manha\Senai.Gufi.WebApi.Manha\bin\Debug\netcoreapp2.1\Senai.Gufi.WebApi.Manha.runtimeconfig.dev.json
+C:\Users\50539955833\Documents\sprint2-API\Senai.Gufi.WebApi.Manha\Senai.Gufi.WebApi.Manha\bin\Debug\netcoreapp2.1\Senai.Gufi.WebApi.Manha.dll
+C:\Users\50539955833\Documents\sprint2-API\Senai.Gufi.WebApi.Manha\Senai.Gufi.WebApi.Manha\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.Manha.csprojAssemblyReference.cache
+C:\Users\50539955833\Documents\sprint2-API\Senai.Gufi.WebApi.Manha\Senai.Gufi.WebApi.Manha\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.Manha.csproj.CoreCompileInputs.cache
+C:\Users\50539955833\Documents\sprint2-API\Senai.Gufi.WebApi.Manha\Senai.Gufi.WebApi.Manha\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.Manha.RazorAssemblyInfo.cache
+C:\Users\50539955833\Documents\sprint2-API\Senai.Gufi.WebApi.Manha\Senai.Gufi.WebApi.Manha\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.Manha.RazorAssemblyInfo.cs
+C:\Users\50539955833\Documents\sprint2-API\Senai.Gufi.WebApi.Manha\Senai.Gufi.WebApi.Manha\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.Manha.AssemblyInfoInputs.cache
+C:\Users\50539955833\Documents\sprint2-API\Senai.Gufi.WebApi.Manha\Senai.Gufi.WebApi.Manha\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.Manha.AssemblyInfo.cs
+C:\Users\50539955833\Documents\sprint2-API\Senai.Gufi.WebApi.Manha\Senai.Gufi.WebApi.Manha\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.Manha.RazorTargetAssemblyInfo.cache
+C:\Users\50539955833\Documents\sprint2-API\Senai.Gufi.WebApi.Manha\Senai.Gufi.WebApi.Manha\bin\Debug\netcoreapp2.1\Senai.Gufi.WebApi.Manha.pdb
+C:\Users\50539955833\Documents\sprint2-API\Senai.Gufi.WebApi.Manha\Senai.Gufi.WebApi.Manha\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.Manha.dll
+C:\Users\50539955833\Documents\sprint2-API\Senai.Gufi.WebApi.Manha\Senai.Gufi.WebApi.Manha\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.Manha.pdb
